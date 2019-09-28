@@ -1,6 +1,8 @@
 # A successful/unsuccessful clasification over [Divar](https://divar.ir/) Ads using matlab
 A fine Gaussian scaled Classification to detect whether an add was successful or not ([Divar](https://divar.ir/))
-[Run this file] (Make_Data_Great_Again.m)
+
+[Run this file](Make_Data_Great_Again.m)
+
 **For more information checkout comments of the .m files.**
 
 ## Data analysis
