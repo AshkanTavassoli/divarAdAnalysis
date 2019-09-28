@@ -22,11 +22,11 @@ Using the order in the DATA file we have:
 
 - **Publish Day:** Between 0 - 31, the day the ad was published in Month
 
-![Publish Day Histogram](photos/Publish Day.PNG)
+![Publish Day Histogram](photos/Publish_Day.PNG)
 
 - **Publish Hour:** Between 0-23, the hour the ad was published
 
-![Publish Hour Histogram](photos/Publish Hour.PNG)
+![Publish Hour Histogram](photos/Publish_Hour.PNG)
 
 - **Archive Day:** Between 0 - 31, the day the ad was archived in Month
 
@@ -34,7 +34,7 @@ Using the order in the DATA file we have:
 
 - **Image Count:** Integers
 
-![Image Count Histogram](photos/Image Count.PNG)
+![Image Count Histogram](photos/Image_Count.PNG)
 
 - **View Count:** How many times the ad was seen by users
 
