@@ -1,9 +1,13 @@
+%Result Column ID
 outputY = 8;
+%Watchdog report day
 reportDaysCount = 5;
 maximumCityID = 7;
 maximumBrandID = 29;
 metadataCreatorPercentage = 0.5;
+%Test/Train split
 trainingDataPercentage = 0.85;
+%Threshhold for classification
 treshhold = 0.5;
 global trainedClassifier processedTestData result;
 
